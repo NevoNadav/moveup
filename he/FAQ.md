@@ -14,11 +14,11 @@ MoveUp (מובאפ) היא אפליקציה עצמאית לניווט בתחבו
 
 ## איפה מורידים?
 
-ב[עמוד הרשמי ב־App Store](https://apps.apple.com/il/app/moveup-israel-transit/id6834863987?l=he). האפליקציה מיועדת לאייפון עם iOS 26 ומעלה. בעמוד החנות מופיעים פרטי התאימות והזמינות המעודכנים.
+ב[עמוד הרשמי ב־App Store](https://apps.apple.com/il/app/moveup-israel-transit/id6834863987?l=he). גרסת האייפון דורשת iOS 26 ומעלה. בעמוד החנות מופיעים פרטי התאימות והזמינות המעודכנים.
 
 ## יש גם Android?
 
-גרסת Android מתוכננת להמשך. עדכון על זמינות לציבור יתפרסם ב[אתר הרשמי](https://moveup.org.il/) וב[אינסטגרם](https://www.instagram.com/startmoveup/). אין כאן קובץ התקנה לאנדרואיד.
+כן. גרסת האנדרואיד זמינה לציבור ב־[Google Play](https://play.google.com/store/apps/details?id=com.nevonadav.moveup&hl=he&gl=IL), בעברית ובאנגלית. החנות מציגה את התאמת המכשיר והזמינות באזור שלכם. Live Updates דורשים מכשיר וגרסת Android תומכים. אין במאגר קובצי APK.
 
 ## צריך לפתוח חשבון?
 
