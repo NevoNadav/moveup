@@ -12,11 +12,11 @@ Yes. The app is free to download and use, with no advertising. Public transport 
 
 ## Where can I download it?
 
-Use the [official App Store listing](https://apps.apple.com/il/app/moveup-israel-transit/id6834863987). MoveUp requires an iPhone with iOS 26 or later. Check the listing for current regional availability and compatibility.
+For iPhone, use the [official App Store listing](https://apps.apple.com/il/app/moveup-israel-transit/id6834863987). MoveUp requires an iPhone with iOS 26 or later. Check the listing for current regional availability and compatibility.
 
 ## Is there an Android version?
 
-Android is planned. The [official website](https://moveup.org.il/) and [project Instagram](https://www.instagram.com/startmoveup/) are the places to check for a public release. This showcase does not offer an APK or an Android download.
+Yes. Download the released Android app from [Google Play](https://play.google.com/store/apps/details?id=com.nevonadav.moveup). It supports English and Hebrew. The store shows device and regional compatibility; Live Updates require a supported device and Android version. This showcase does not distribute APK files.
 
 ## Does it support English?
 
