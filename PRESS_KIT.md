@@ -4,6 +4,12 @@
 
 [Website](https://moveup.org.il/) · [Download](https://apps.apple.com/il/app/moveup-israel-transit/id6834863987) · [Creator](CREATOR.md) · [Media gallery](GALLERY.md)
 
+## Download the complete kit
+
+[Download the MoveUp press kit (ZIP)](https://github.com/NevoNadav/moveup/releases/download/press-kit-2026-11/MoveUp-Press-Kit-2026-11.zip) · [Release details](https://github.com/NevoNadav/moveup/releases/tag/press-kit-2026-11)
+
+The package contains public editorial material, approved logos and product screenshots. It does not contain the application source or app installers.
+
 ## At a glance
 
 | Field | Detail |
