@@ -4,11 +4,11 @@
 
 **Simply get there. The way, together.**
 
-MoveUp (מובאפ) is a free, ad-free iPhone app for getting around Israel by bus, train and on foot. Plan a journey, compare connections and follow the next step in Hebrew or English. Created and developed by **[Nevo Nadav · נבו נדב](CREATOR.md)**.
+MoveUp (מובאפ) is a free, ad-free iPhone and Android app for getting around Israel by bus, train and on foot. Plan a journey, compare connections and follow the next step in Hebrew or English. Created and developed by **[Nevo Nadav · נבו נדב](CREATOR.md)**.
 
-**[Download for iPhone](https://apps.apple.com/il/app/moveup-israel-transit/id6834863987)** · **[Official website](https://moveup.org.il/en)** · **[עברית](README.he.md)** · **[Screenshots](GALLERY.md)**
+**[Download for iPhone](https://apps.apple.com/il/app/moveup-israel-transit/id6834863987)** · **[Download for Android](https://play.google.com/store/apps/details?id=com.nevonadav.moveup)** · **[Official website](https://moveup.org.il/en)** · **[עברית](README.he.md)** · **[Screenshots](GALLERY.md)**
 
-Requires iOS 26 or later. The app is free; transport fares are paid separately.
+The iPhone version requires iOS 26 or later; Google Play shows Android device compatibility. The app is free; transport fares are paid separately.
 
 ## A clearer journey, from the first search to your stop
 
@@ -29,7 +29,7 @@ Product screenshots are illustrative captures, not current service information. 
 | **Understand a connection** | See the walk between stops and the time left for the next service. |
 | **Find a line or stop** | Explore directions, stops and departure information. |
 | **Use available live information** | View arrival estimates and bus positions when fresh reports are available. |
-| **Stay with the journey** | Map guidance, optional spoken prompts, stop reminders, Live Activities and widgets. |
+| **Stay with the journey** | Map guidance, optional spoken prompts and stop reminders. Live Activities on iPhone; journey notifications and supported Live Updates on Android. |
 | **Make regular trips easier** | Favorite places and recent searches. |
 | **Take part** | Share a journey with people you trust, report crowding or contribute station photos after signing in. |
 
@@ -37,7 +37,7 @@ Product screenshots are illustrative captures, not current service information. 
 
 ## Start with your next trip
 
-1. [Install MoveUp from the App Store](https://apps.apple.com/il/app/moveup-israel-transit/id6834863987).
+1. Install MoveUp from the [App Store](https://apps.apple.com/il/app/moveup-israel-transit/id6834863987) or [Google Play](https://play.google.com/store/apps/details?id=com.nevonadav.moveup).
 2. Choose your destination and when you want to travel.
 3. Compare the whole journey, including walking and transfers.
 4. Start guidance and follow the next step. Check the direction and destination when boarding.
@@ -76,7 +76,7 @@ MoveUp supports Hebrew right-to-left layouts and English, with light and dark ap
 
 ## Useful boundaries
 
-Live information depends on data availability and may change. MoveUp is an independent project, not an official transport operator or Ministry of Transport service. The Tickets area provides fare information and a preview; it does not sell tickets, take payments or validate journeys. Android is planned; follow the official website for availability.
+Live information depends on data availability and may change. MoveUp is an independent project, not an official transport operator or Ministry of Transport service. The Tickets area provides fare information and a preview; it does not sell tickets, take payments or validate journeys. MoveUp is available on the App Store and Google Play. Features and background updates vary by device and OS.
 
 This repository is the **public product showcase and media hub**. It contains editorial documentation and selected visual assets. The application source, backend, credentials, private data and build artifacts are not included.
 
