@@ -1,0 +1,28 @@
+# Public editorial content and selected media only.
+*
+!*/
+!*.md
+!assets/brand/*.svg
+!assets/brand/*.png
+!assets/screenshots/*.png
+!.gitignore
+
+# Never publish credentials, development output or app source here.
+.env*
+*.pem
+*.key
+*.p12
+*.mobileprovision
+*.ipa
+*.apk
+*.aab
+*.swift
+*.kt
+*.java
+*.js
+*.ts
+*.py
+*.sqlite*
+*.zip
+*.xcarchive/
+.DS_Store
